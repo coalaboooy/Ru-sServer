@@ -1,0 +1,13 @@
+D:\Учеба\MTS\Server\Server\bin\Debug\netcoreapp3.1\Server.exe
+D:\Учеба\MTS\Server\Server\bin\Debug\netcoreapp3.1\Server.deps.json
+D:\Учеба\MTS\Server\Server\bin\Debug\netcoreapp3.1\Server.runtimeconfig.json
+D:\Учеба\MTS\Server\Server\bin\Debug\netcoreapp3.1\Server.runtimeconfig.dev.json
+D:\Учеба\MTS\Server\Server\bin\Debug\netcoreapp3.1\Server.dll
+D:\Учеба\MTS\Server\Server\bin\Debug\netcoreapp3.1\Server.pdb
+D:\Учеба\MTS\Server\Server\obj\Debug\netcoreapp3.1\Server.csprojAssemblyReference.cache
+D:\Учеба\MTS\Server\Server\obj\Debug\netcoreapp3.1\Server.AssemblyInfoInputs.cache
+D:\Учеба\MTS\Server\Server\obj\Debug\netcoreapp3.1\Server.AssemblyInfo.cs
+D:\Учеба\MTS\Server\Server\obj\Debug\netcoreapp3.1\Server.csproj.CoreCompileInputs.cache
+D:\Учеба\MTS\Server\Server\obj\Debug\netcoreapp3.1\Server.dll
+D:\Учеба\MTS\Server\Server\obj\Debug\netcoreapp3.1\Server.pdb
+D:\Учеба\MTS\Server\Server\obj\Debug\netcoreapp3.1\Server.genruntimeconfig.cache
