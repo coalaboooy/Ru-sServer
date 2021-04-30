@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Учеба\\MTS\\Client\\Client\\Client.csproj": {}
+    "D:\\Учеба\\MTS\\Client\\C#Client\\Client.csproj": {}
   },
   "projects": {
-    "D:\\Учеба\\MTS\\Client\\Client\\Client.csproj": {
+    "D:\\Учеба\\MTS\\Client\\C#Client\\Client.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Учеба\\MTS\\Client\\Client\\Client.csproj",
+        "projectUniqueName": "D:\\Учеба\\MTS\\Client\\C#Client\\Client.csproj",
         "projectName": "Client",
-        "projectPath": "D:\\Учеба\\MTS\\Client\\Client\\Client.csproj",
+        "projectPath": "D:\\Учеба\\MTS\\Client\\C#Client\\Client.csproj",
         "packagesPath": "C:\\Users\\Александр\\.nuget\\packages\\",
-        "outputPath": "D:\\Учеба\\MTS\\Client\\Client\\obj\\",
+        "outputPath": "D:\\Учеба\\MTS\\Client\\C#Client\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Александр\\AppData\\Roaming\\NuGet\\NuGet.Config",

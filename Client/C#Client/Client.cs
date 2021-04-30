@@ -2,6 +2,7 @@
 using System.Text;
 using System.Net.Sockets;
 using System.Threading.Tasks;
+using System.Text.RegularExpressions;
 
 namespace Client
 {
@@ -27,7 +28,7 @@ namespace Client
                     stream.Write(data, 0, data.Length);
                     Console.WriteLine($"Client({clientId}) sent: {message}");
 
-                    if (message == "end") //если сообщение == "end", закрываем соединение
+                    if (Regex.IsMatch(message, @"\(\d+\)end", RegexOptions.IgnoreCase)) //если сообщение == "end", закрываем соединение
                     {
                         Console.WriteLine($"Client({clientId}) closing connection");
                         stream.Close();
