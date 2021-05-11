@@ -1,0 +1,10 @@
+D:\Учеба\MTS\ServerGUI\ServerGUI\bin\Debug\ServerGUI.exe.config
+D:\Учеба\MTS\ServerGUI\ServerGUI\bin\Debug\ServerGUI.exe
+D:\Учеба\MTS\ServerGUI\ServerGUI\bin\Debug\ServerGUI.pdb
+D:\Учеба\MTS\ServerGUI\ServerGUI\obj\Debug\ServerGUI.csprojAssemblyReference.cache
+D:\Учеба\MTS\ServerGUI\ServerGUI\obj\Debug\ServerGUI.Form1.resources
+D:\Учеба\MTS\ServerGUI\ServerGUI\obj\Debug\ServerGUI.Properties.Resources.resources
+D:\Учеба\MTS\ServerGUI\ServerGUI\obj\Debug\ServerGUI.csproj.GenerateResource.cache
+D:\Учеба\MTS\ServerGUI\ServerGUI\obj\Debug\ServerGUI.csproj.CoreCompileInputs.cache
+D:\Учеба\MTS\ServerGUI\ServerGUI\obj\Debug\ServerGUI.exe
+D:\Учеба\MTS\ServerGUI\ServerGUI\obj\Debug\ServerGUI.pdb

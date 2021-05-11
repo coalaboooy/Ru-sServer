@@ -18,6 +18,10 @@ namespace Client
                 //сообщение
                 string message = null;
 
+                message = "client (" + clientId + ") connected";
+                byte[] greeting = Encoding.ASCII.GetBytes(message);
+                stream.Write(greeting, 0, greeting.Length);
+
                 while (true)
                 {
                     //считываем сообщение и добавляем ID клиента для идентификации
