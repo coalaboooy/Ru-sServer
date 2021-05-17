@@ -1,0 +1,10 @@
+D:\Учеба\MTS\LaserSIM\LaserSIM_ServerGUI\bin\Debug\ServerGUI.exe.config
+D:\Учеба\MTS\LaserSIM\LaserSIM_ServerGUI\bin\Debug\ServerGUI.exe
+D:\Учеба\MTS\LaserSIM\LaserSIM_ServerGUI\bin\Debug\ServerGUI.pdb
+D:\Учеба\MTS\LaserSIM\LaserSIM_ServerGUI\obj\Debug\LaserSIM_ServerGUI.csprojAssemblyReference.cache
+D:\Учеба\MTS\LaserSIM\LaserSIM_ServerGUI\obj\Debug\LaserSIM_ServerGUI.Form1.resources
+D:\Учеба\MTS\LaserSIM\LaserSIM_ServerGUI\obj\Debug\ServerGUI.Properties.Resources.resources
+D:\Учеба\MTS\LaserSIM\LaserSIM_ServerGUI\obj\Debug\LaserSIM_ServerGUI.csproj.GenerateResource.cache
+D:\Учеба\MTS\LaserSIM\LaserSIM_ServerGUI\obj\Debug\LaserSIM_ServerGUI.csproj.CoreCompileInputs.cache
+D:\Учеба\MTS\LaserSIM\LaserSIM_ServerGUI\obj\Debug\ServerGUI.exe
+D:\Учеба\MTS\LaserSIM\LaserSIM_ServerGUI\obj\Debug\ServerGUI.pdb

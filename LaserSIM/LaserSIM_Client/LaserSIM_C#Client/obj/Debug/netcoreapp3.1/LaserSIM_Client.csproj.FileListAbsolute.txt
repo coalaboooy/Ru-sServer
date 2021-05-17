@@ -1,0 +1,13 @@
+D:\Учеба\MTS\LaserSIM\LaserSIM_Client\LaserSIM_C#Client\bin\Debug\netcoreapp3.1\LaserSIM_Client.exe
+D:\Учеба\MTS\LaserSIM\LaserSIM_Client\LaserSIM_C#Client\bin\Debug\netcoreapp3.1\LaserSIM_Client.deps.json
+D:\Учеба\MTS\LaserSIM\LaserSIM_Client\LaserSIM_C#Client\bin\Debug\netcoreapp3.1\LaserSIM_Client.runtimeconfig.json
+D:\Учеба\MTS\LaserSIM\LaserSIM_Client\LaserSIM_C#Client\bin\Debug\netcoreapp3.1\LaserSIM_Client.runtimeconfig.dev.json
+D:\Учеба\MTS\LaserSIM\LaserSIM_Client\LaserSIM_C#Client\bin\Debug\netcoreapp3.1\LaserSIM_Client.dll
+D:\Учеба\MTS\LaserSIM\LaserSIM_Client\LaserSIM_C#Client\bin\Debug\netcoreapp3.1\LaserSIM_Client.pdb
+D:\Учеба\MTS\LaserSIM\LaserSIM_Client\LaserSIM_C#Client\obj\Debug\netcoreapp3.1\LaserSIM_Client.csprojAssemblyReference.cache
+D:\Учеба\MTS\LaserSIM\LaserSIM_Client\LaserSIM_C#Client\obj\Debug\netcoreapp3.1\LaserSIM_Client.AssemblyInfoInputs.cache
+D:\Учеба\MTS\LaserSIM\LaserSIM_Client\LaserSIM_C#Client\obj\Debug\netcoreapp3.1\LaserSIM_Client.AssemblyInfo.cs
+D:\Учеба\MTS\LaserSIM\LaserSIM_Client\LaserSIM_C#Client\obj\Debug\netcoreapp3.1\LaserSIM_Client.csproj.CoreCompileInputs.cache
+D:\Учеба\MTS\LaserSIM\LaserSIM_Client\LaserSIM_C#Client\obj\Debug\netcoreapp3.1\LaserSIM_Client.dll
+D:\Учеба\MTS\LaserSIM\LaserSIM_Client\LaserSIM_C#Client\obj\Debug\netcoreapp3.1\LaserSIM_Client.pdb
+D:\Учеба\MTS\LaserSIM\LaserSIM_Client\LaserSIM_C#Client\obj\Debug\netcoreapp3.1\LaserSIM_Client.genruntimeconfig.cache
